@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">EnhancedConsultant</string>
+    <string name="employee_user_name">Employee user name…</string>
+    <string name="employee_user_password">Employee password…</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="username_hint">User name</string>
+    <string name="create_new_user_account">Create Account</string>
+    <string name="user_sign_in">Sign In</string>
+    <string name="company_logo">Company Logo</string>
+    <string name="company_first_name">Enhance</string>
+    <string name="company_last_name">IT</string>
+    <string name="user_credentials">User Credentials</string>
+    <string name="account_setup">Account Setup</string>
+    <string name="create_account">Create Account</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_type">Task Type</string>
+    <string name="accept_task">Accept</string>
+    <string name="decline_task">Decline</string>
+    <string name="assigned_task">Assigned Task</string>
+    <string name="assigned_by">Assigned By</string>
+    <string name="daily_tasks">Daily Tasks</string>
+    <string name="default_date_time">Mon, Jan 1, 1969, 8:00 AM</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="user_email">Email</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="task_description">Task Description</string>
+    <string name="assign_task">Assign</string>
+    <string name="employee_email">Employee Email</string>
+    <string name="task_todo">Task todo</string>
+    <string name="set_date_time">Set</string>
+    <string name="time_separator">:</string>
+    <string name="select_task_due_date">Due Date</string>
+</resources>
